@@ -16,6 +16,23 @@ Drag files into the shark's mouth and they will be routed to the currently selec
 - PySide6
 - send2trash
 
+## Configuration
+
+DesktopShark uses the `MODES` list in `main.py` to determine where files are routed.
+
+Example:
+
+```python
+MODES = [
+    {
+        "name": "Projects",
+        "destination": "/Users/yourname/Documents/Projects"
+    }
+]
+```
+
+Replace the placeholder paths with folders that exist on your computer.
+
 ## Future Plans
 - Additional shark skins
 - More routing destinations

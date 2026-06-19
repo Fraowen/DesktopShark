@@ -23,19 +23,19 @@ MODES = [
     },
     {
         "name": "Test Folder",
-        "destination": "/Users/jennyr/Desktop/DesktopShark Test Folder"
+        "destination": "PUT YOUR PATH HERE"
     },
     {
         "name": "CD-Playlists",
-        "destination": "/Users/jennyr/CD-Playlists"
+        "destination": "PUT YOUR PATH HERE"
     },
     {
         "name": "Downloads",
-        "destination": "/Users/jennyr/Downloads"
+        "destination": "PUT YOUR PATH HERE"
     },
     {
         "name": "Projects",
-        "destination": "Users/jennyr/Coding Projects"
+        "destination": "PUT YOUR PATH HERE"
     },
 ]
 
